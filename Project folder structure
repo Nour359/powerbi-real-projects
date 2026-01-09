@@ -1,0 +1,17 @@
+powerbi-real-projects/
+│
+├── 01_Sales_Analytics/
+│   ├── data/
+│   ├── pbix/
+│   ├── screenshots/ 
+│   └── README.md
+│
+├── 02_HR_Analytics/
+│   ├── data/
+│   ├── pbix/
+│   ├── screenshots/
+│   └── README.md
+│
+└── README.md
+
+
